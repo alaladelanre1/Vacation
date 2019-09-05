@@ -1,11 +1,11 @@
 /* About */
- #home-info .info-content , #home-info .info-img{
+ #vacation .info-content , #vacation .info-img{
   float: none;
   width: 100%;
 }
 
-#home-info .info-content {
-  margin-top: 0px;
+#vacation .info-content {
+  margin-top: 30px;
 }
 
 .l-heading {
