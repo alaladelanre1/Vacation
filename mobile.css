@@ -1,0 +1,13 @@
+/* About */
+ #home-info .info-content , #home-info .info-img{
+  float: none;
+  width: 100%;
+}
+
+#home-info .info-content {
+  margin-top: 0px;
+}
+
+.l-heading {
+  text-align: center;
+}
